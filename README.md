@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi ~👋
+
++ 🔭 I'mm currently working on text to speech (TTS), I'm interesting in speech generation and diffusion models!
++ 
 
 <!--
 **kakadeguaidao/kakadeguaidao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
